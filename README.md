@@ -1,0 +1,1 @@
+<img src="./vendors/images/sharingan-result.gif" />
