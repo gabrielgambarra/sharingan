@@ -1,1 +1,0 @@
-<img src="https://cdn.loom.com/sessions/thumbnails/c69bf9402fe8478199ca3f909141ac46-with-play.gif">
